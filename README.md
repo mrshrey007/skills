@@ -32,15 +32,8 @@ When you ask Claude Code to create an Expo app, this skill ensures:
 After installing, simply ask Claude Code:
 
 ```
-Create a fitness tracking app with bundle ID com.mycompany.fitness
+/zafer-skills Create a water reminder app
 ```
-
-Claude will automatically:
-- Set up the project structure
-- Configure RevenueCat and AdMob
-- Create onboarding with video background
-- Build paywall with subscription options
-- Add settings with language, theme, and reset options
 
 ## Tech Stack
 
